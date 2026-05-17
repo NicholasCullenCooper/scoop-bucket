@@ -1,19 +1,19 @@
 {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/NicholasCullenCooper/csaw/releases/download/v0.4.0/csaw_0.4.0_windows_amd64.zip",
+            "url": "https://github.com/NicholasCullenCooper/csaw/releases/download/v0.5.0/csaw_0.5.0_windows_amd64.zip",
             "bin": [
                 "csaw.exe"
             ],
-            "hash": "bf350bf021734c71971cbe07245e86c97a824838c971c8c60fd5fe8bb7495286"
+            "hash": "7c81cdaaa1126c5ebdb15528bdbfad7002d60677353550d07c312eb0f6be8d08"
         },
         "arm64": {
-            "url": "https://github.com/NicholasCullenCooper/csaw/releases/download/v0.4.0/csaw_0.4.0_windows_arm64.zip",
+            "url": "https://github.com/NicholasCullenCooper/csaw/releases/download/v0.5.0/csaw_0.5.0_windows_arm64.zip",
             "bin": [
                 "csaw.exe"
             ],
-            "hash": "632b7136fd65b4069482ee6d5c0d4696161b9b09064e3acd8f3a7372cc325568"
+            "hash": "81bda207fd90e106fed9a4082dc83ac59f65acffe5d90dae637b67703eef22b0"
         }
     },
     "homepage": "https://github.com/NicholasCullenCooper/csaw",
